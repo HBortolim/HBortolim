@@ -1,7 +1,7 @@
 ### Hi there, I'm Henrique Bortolim 👋
 
 
-- 🔭 I’m currently working on: expand my knowledge in the Web Development area nad I'm currently in a internship at H2W Systems.
+- 🔭 I’m currently working on: expand my knowledge in the Web Development area and I'm in a internship at H2W Systems.
 - 🌱 I’m currently learning web development and studying Technologist in System Analysis and Development & Information Technology at FIAP
 - 📫 How to reach me: you can contact me either by email(hbortolim@gmail.com) or LinkedIn (https://www.linkedin.com/in/henrique-bortolim-730009197/)
 
