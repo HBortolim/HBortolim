@@ -1,7 +1,7 @@
 <head>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </head>
-### Hi there, I'm Henrique Bortolim 👋
+<h1>Hi there, I'm Henrique Bortolim 👋</h1>
 
 
 - 🔭 I’m currently working on: expand my knowledge in the Web Development area and I'm in a internship at H2W Systems.
