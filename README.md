@@ -4,7 +4,7 @@
 <h1>Hi there, I'm Henrique Bortolim 👋</h1>
 
 
-- 🔭 I’m currently working on: expanding my knowledge in the Web Development area and I'm in a internship at H2W Systems.
+- 🔭 I’m currently working on: expanding my knowledge in the Web Development.
 - 🌱 I’m currently learning web development and studying Technologist in System Analysis and Development & Information Technology at FIAP.
 <br>
 <div align="center">
